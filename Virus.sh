@@ -58,12 +58,11 @@ echo
 sleep 1
 echo $green"MENGIRIM VIRUS SUKSES KE NOMOR "$isi;
 echo
-echo
-echo
+sleep 1
+clear
 figlet BYE
 echo $blue"========================================="
 echo $cyan"Terimakasih Sudah Menggunakan Tools Ini"
 echo $cyan"Ingat Jangan Salahgunakan Tools Ini"
 echo $blue"========================================="
 exit
-fi
